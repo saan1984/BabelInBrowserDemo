@@ -1,0 +1,13 @@
+{
+  "name": "BabelInBrowserDemo",
+  "version": "0.0.1",
+  "description": "Babel In Browser Compilation demo",
+  "repository": {
+    "type": "git"
+  },
+  "author": "Sandeep",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^5.4.5"
+  }
+}
